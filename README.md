@@ -49,4 +49,4 @@ Check out my pinned repositories below for hands-on code including document summ
 ---
 
 ### 📫 Let's connect
-[https://www.linkedin.com/in/neha-singh-6b7527289/] · Open to full-time opportunities in Data Science / ML Engineering
+[https://www.linkedin.com/in/neha-singh-6b7527289/] · Open to full-time opportunities in AI / ML Engineering
