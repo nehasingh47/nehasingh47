@@ -18,7 +18,7 @@ An end-to-end ML platform predicting chassis-level customer dissatisfaction from
 
 **Wholesale Demand Forecasting Pipeline** *(in progress)*
 A forecasting system for tractor models, currently under development.
-- LightGBM with walk-forward cross-validation
+- XGBoost with walk-forward cross-validation
 - Handles model lifecycle transitions, cold-start scenarios, and discontinued-model decay
 
 ---
