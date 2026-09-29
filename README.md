@@ -1,12 +1,12 @@
 # Hi, I'm Neha Singh👋
 
-**AI / ML Intern @ Escorts Kubota Limited (EKL)** | B.Tech CSE | Building ML systems that solve real business problems
+** Former AI / ML Intern @ Escorts Kubota Limited (EKL)** | B.Tech CSE | Building ML systems that solve real business problems
 
-I work at the intersection of machine learning, forecasting, and GenAI turning messy real-world data into systems people actually use to make decisions.
+I worked at the intersection of machine learning, forecasting, and GenAI turning messy real-world data into systems people actually use to make decisions.
 
 ---
 
-### 🔭 What I'm building
+### 🔭 What I build 
 
 **PRISM - Predictive Risk Intelligence for Service Management**
 An end-to-end ML platform predicting chassis-level customer dissatisfaction from service, complaint, and warranty data.
